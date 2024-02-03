@@ -1,4 +1,4 @@
-weighted and undirected
+weighted and directed
 
 def addnode(v):
     global nodecount
